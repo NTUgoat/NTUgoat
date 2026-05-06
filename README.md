@@ -1,8 +1,13 @@
-<h1 align="center">Jex</h1>
+![Jex Banner](https://socialify.git.ci/NTUgoat/NTUgoat/image?font=Inter&name=1&owner=0&pattern=Solid&theme=Light&description=1&language=0&forks=0&issues=0&pulls=0&stargazers=0&v=1)
 
 <p align="center">
-  <b>AI Developer & Technology Consultant</b><br/>
-  Building full-stack AI products, automation systems, and intelligent workflows.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=111827&background=FFFFFF00&center=true&vCenter=true&width=700&lines=AI+Developer;Technology+Consultant;RAG+%26+LLM+Apps;AI+Governance+%26+Automation;AI+Major+%26+Scholar+%40+NTU" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building full-stack AI products, automation systems, and intelligent workflows.</b>
 </p>
 
 <p align="center">
